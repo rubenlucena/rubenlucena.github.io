@@ -7,7 +7,7 @@ theme:
   # Meta
   title: Rubén Lucena
   avatar: avatar.png
-  gravatar: # email md5 hash
+  gravatar: ruben.lucena@gmail.com
   description: "Programación, gadgets, libros y juegos" # used by search engines
   
   # Header and footer text
@@ -35,7 +35,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "@rubenlr_"
+  twitter: "rubenlr_"
   wordpress: 
   youtube: 
   
